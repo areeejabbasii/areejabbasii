@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/areej-abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areej-abbasi" height="30" width="40" /></a>
-<a href="https://instagram.com/as_abba.si3440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="as_abba.si3440" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AREEJ AREEJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areej-abbasi" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/areej-abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="areej-abbasi" height="30" width="40" /></a>
 </p>
 
