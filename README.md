@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python,c++**
 
-- 📫 How to reach me **areejabbasaiasa@gmai.com**
+- 📫 How to reach me **areejabbasaiasa@gmail.com**
 
 - ⚡ Fun fact **i am funny😊**
 
