@@ -1,55 +1,77 @@
-<h1 align="center">Hi 👋, I'm Areej Abbasi</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=areejabbasii&label=Profile%20views&color=0e75b6&style=flat" alt="areejabbasii" /> </p>
-
-- 🌱 I’m currently learning *Python, C++*
-- 💻 I’m working on enhancing my skills in *Frontend Development* and *UI/UX Design*
-- 📫 How to reach me *areejabbasaiasa@gmail.com*
-- ⚡ Fun fact * I am Saving 🌴 by not doing 📚📄 homework*
-
-<h3 align="left">About Me:</h3>
-<p align="left">
-  I am a 3rd-year Software Engineering student at Quaid-e-Azam University. My journey in technology began with a curiosity for how things work, leading me to explore the world of coding and software development. I am particularly passionate about frontend development, where I enjoy turning ideas into beautiful, responsive, and user-friendly web applications.
+🌟 About Me
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>👋 Hi there, I'm Areej Abbasi!</h1>
+    <p>
+      I'm a passionate 3rd-year Software Engineering student dedicated to harnessing the power of technology to solve real-world problems. My journey so far has been a blend of rigorous academic study and hands-on experience in software engineering, data analysis, and artificial intelligence.
+    </p>
+    <p>
+      🌟 *What Drives Me?*<br>
+      I’m driven by a quest to create innovative solutions that can make a meaningful impact. My interests span:
+    </p>
+    <ul>
+      <li>🛠️ *Software Development* - Building efficient and scalable applications.</li>
+      <li>📊 *Data Analysis* - Turning raw data into actionable insights.</li>
+      <li>🤖 *Artificial Intelligence* - Exploring AI's potential to transform industries.</li>
+    </ul>
+    <p>
+      🚀 *Current Projects*:<br>
+      - 🌐 Developing web and mobile apps.<br>
+      - 📈 Implementing machine learning models.<br>
+      - 🏆 Competing in hackathons and coding challenges.
+    </p>
+    <p>
+      🌱 *Lifelong Learner* - I believe in the power of continuous learning to stay ahead in the ever-evolving tech landscape.
+    </p>
+    <p>
+      🎯 *My Goals* - To contribute to groundbreaking projects and collaborate with fellow tech enthusiasts to drive positive change.
+    </p>
+    <p>
+      🌟 *Let’s Connect!* - I’m always excited to explore new opportunities and collaborations. Feel free to reach out!
+    </p>
+  </div>
+</div>
+📈 Profile Views
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=areeejabbasii&style=flat-square&color=red" alt="Profile Views"/>
 </p>
-<p align="left">
-  When I'm not coding, you can find me exploring the latest tech trends, participating in hackathons, or engaging in online coding communities. I believe in the power of continuous learning and am always looking for new challenges and opportunities to grow.
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+🌐 Socials
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61563976922947">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.instagram.com/areejabbasii/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="http://www.linkedin.com/in/areej-abbasi-b04418321">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.reddit.com/user/DifficultInjury8135/?utm_source=share">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://x.com/areejabbasii534">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areejabbasii&show_icons=true&locale=en&layout=compact" alt="areejabbasii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areejabbasii&show_icons=true&locale=en" alt="areejabbasii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areejabbasii&" alt="areejabbasii" /></p>
-
-
+💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>                                                                                                                                                                                                       
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+</p>
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=areeejabbasii&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areeejabbasii&theme=radical&hide_border=true" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeejabbasii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=areeejabbasii&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
+✍️ Quote of the Day
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
+</p>
