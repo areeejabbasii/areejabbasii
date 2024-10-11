@@ -5,6 +5,10 @@
     <p>
       I'm a passionate 3rd-year Software Engineering student dedicated to harnessing the power of technology to solve real-world problems. My journey so far has been a blend of rigorous academic study and hands-on experience in software engineering, data analysis, and artificial intelligence.
     </p>
+    
+<img tab-index="-1" src="https://th.bing.com/th/id/R.91b513350e4fc3e7ac634fbcca36fc25?rik=T9T153eBN0nAyw&amp;pid=ImgRaw&amp;r=0" data-bm="8">
+
+    
     <p>
       🌟 *What Drives Me?*<br>
       I’m driven by a quest to create innovative solutions that can make a meaningful impact. My interests span:
@@ -71,7 +75,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=areeejabbasii&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
-<img tab-index="-1" src="https://th.bing.com/th/id/R.91b513350e4fc3e7ac634fbcca36fc25?rik=T9T153eBN0nAyw&amp;pid=ImgRaw&amp;r=0" data-bm="8">
+
 ✍️ Quote of the Day
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
